@@ -1,0 +1,29 @@
+{
+    "tareas":[
+        {
+            "titulo" : "Tarea 1",
+            "responsable" : "Raul",
+            "descripcion" : "lorem ipsum",
+            "prioridad" : "baja"
+        },
+        {
+            "titulo" : "Tarea 2",
+            "responsable" : "Deni",
+            "descripcion" : "lorem ipsum",
+            "prioridad" : "media"
+        },
+        {
+            "titulo" : "Tarea 3",
+            "responsable" : "Nirvana",
+            "descripcion" : "lorem ipsum",
+            "prioridad" : "alta"
+        },
+        {
+            "titulo" : "Tarea 4",
+            "responsable" : "Diane",
+            "descripcion" : "lorem ipsum",
+            "prioridad" : "media"
+        }
+    ]
+
+}
